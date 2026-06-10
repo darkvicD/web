@@ -1,4 +1,4 @@
-# NEXUS — Torneos de Videojuegos 🎮
+# Aguacate — T 🎮
 
 Plataforma oscura de torneos para Mario Kart, Valorant, Street Fighter y más.
 
